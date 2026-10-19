@@ -1,6 +1,6 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "url": "https://github.com/TIGERHAK/galaxy-gaming-hub/releases/latest",
-  "notes_ar": "- إعدادات جديدة بتصميم أقسام جانبية (المظهر / الألعاب والمحاكيات / الأونلاين / النظام)\n- سكرول سلس بدون تشويش حتى مع مئات الألعاب\n- كليك يمين على اللعبة لإزالتها أو إضافتها للمفضلة\n- فتح أي ملف لعبة (ISO / ROM) عبر محاكي تربطه مرة واحدة\n- حزمة أغلفة تعمل بدون إنترنت + وضع بدون إنترنت\n- مطابقة أدق للأغلفة وحفظ نسخة احتياطية تلقائية للمكتبة\n- حساب وقت اللعب لألعاب Steam",
-  "notes_en": "- New settings with side categories (Appearance / Games & Emulators / Online / System)\n- Smooth, flicker-free scrolling even with hundreds of games\n- Right-click a game to remove it or add it to favorites\n- Open any game file (ISO / ROM) through an emulator you link once\n- Offline cover pack + offline mode\n- Stricter cover matching and an automatic library backup\n- Play time tracking for Steam games"
+  "notes_ar": "- أصوات ومقدمة (Intro) عند الفتح\n- زر الألعاب المكررة\n- المسح بيتجاهل اللانشرز والمنصات\n- وضع الأداء (Boost) أثناء اللعب\n- سكرول أخف",
+  "notes_en": "- Sounds and an opening intro\n- Duplicate games button\n- Scan ignores launchers/platforms\n- Performance mode (Boost) while playing\n- Smoother scrolling"
 }
