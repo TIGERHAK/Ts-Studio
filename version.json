@@ -1,6 +1,6 @@
 {
   "version": "1.2.1",
-  "url": "https://github.com/TIGERHAK/galaxy-gaming-hub/releases/latest",
+  "url": "https://github.com/TIGERHAK/Ts-Studio/releases/latest",
   "notes_ar": "- أصوات ومقدمة (Intro) عند الفتح\n- زر الألعاب المكررة\n- المسح بيتجاهل اللانشرز والمنصات\n- وضع الأداء (Boost) أثناء اللعب\n- سكرول أخف",
   "notes_en": "- Sounds and an opening intro\n- Duplicate games button\n- Scan ignores launchers/platforms\n- Performance mode (Boost) while playing\n- Smoother scrolling"
 }
